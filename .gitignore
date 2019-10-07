@@ -1,0 +1,10 @@
+node_modules
+npm-debug.log*
+node_modules/
+jspm_packages/
+typings/
+.npm
+*.tgz
+
+dist/
+.vscode/
